@@ -1,4 +1,4 @@
-# WeRateDogs-Twitter-Archives - Data Wrangling Project
+# WeRateDogs-Twitter-Archives-Data Wrangling Project
 
 ![](https://wallpaperaccess.com/full/266689.jpg)
 
