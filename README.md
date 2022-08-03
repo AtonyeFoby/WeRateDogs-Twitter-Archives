@@ -1,6 +1,5 @@
 # WeRateDogs-Twitter-Archives-Data Wrangling Project
-
-![](https://wallpaperaccess.com/full/266689.jpg)
+## by Atonye Eben-Foby
 
 The wrangling efforts for this project were split into three main phases.
 
